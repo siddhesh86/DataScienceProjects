@@ -1,4 +1,16 @@
 *.csv
 *.csv.gz
 *.csv.*
+*.json
+*.json.*
 *~
+.ipynb_checkpoints
+*/.ipynb_checkpoints/
+*/*/.ipynb_checkpoints/
+**/*.ipynb_checkpoints/
+*-checkpoint.ipynb
+ml/ex_DeepLearning_Kaggle/.ipynb_checkpoints/
+courses/Py_DS_ML_BoostcampCourse_Udemy
+projects/datasets/.ipynb_checkpoints/
+projects/datasets/exploreData_Emergency911Calls_wPlotly.ipynb
+ml/ex_DeepLearning_Kaggle/.ipynb_checkpoints/*
